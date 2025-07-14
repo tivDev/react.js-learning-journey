@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+button {
+  padding: 6px 12px;
+  font-size: 16px;
+}
+input {
+  padding: 6px;
+  font-size: 16px;
+}
